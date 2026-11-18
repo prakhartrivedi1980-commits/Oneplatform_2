@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Telemetry",
+  "description": "Developer-first competitive programming and engineering telemetry console tracking problem solving streaks, multi-platform contest ratings, submission diagnostics, and practice queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
